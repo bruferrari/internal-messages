@@ -1,0 +1,6 @@
+test/messages/model/Msg.class
+test/messages/common/MsgSql.class
+test/messages/util/CommonUtils.class
+test/messages/internalMsgTest/App.class
+test/messages/dao/MsgDAO.class
+test/messages/connection/ConnectionFactory.class
